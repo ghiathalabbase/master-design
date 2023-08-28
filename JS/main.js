@@ -100,7 +100,7 @@ function shuffleImgs() {
         index = 0;
       }
 
-      landing.style.backgroundImage = `url('../imgs/${overLayImgs[index]}')`;
+      landing.style.backgroundImage = `url('https://ghiathalabbase.github.io/master-design/imgs/${overLayImgs[index]}')`;
 
       index += 1;
     }
